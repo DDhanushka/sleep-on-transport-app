@@ -1,0 +1,7 @@
+{
+  "name": "sleep-on-transport-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
